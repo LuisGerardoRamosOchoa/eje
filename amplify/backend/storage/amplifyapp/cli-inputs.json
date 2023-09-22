@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifyapp",
+  "policyUUID": "fed71045",
+  "bucketName": "amplifyapp",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

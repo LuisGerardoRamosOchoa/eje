@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "eje2f8c25b6": {}
+      },
+      "api": {
+        "eje": {}
+      },
+      "storage": {
+        "amplifyapp": {}
       }
     }
   }
